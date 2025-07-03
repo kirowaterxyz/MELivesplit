@@ -4,6 +4,12 @@ A quick-and-dirty DLL overlay to display your **LiveSplit timer** inside **Mirro
 
 ---
 
+## Preview
+
+[![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/RHCmfNBMeT4/maxresdefault.jpg)](https://youtu.be/RHCmfNBMeT4)
+
+---
+
 ## ❓ What is this?
 
 This is **not** a general-purpose overlay for all fullscreen games.  
@@ -36,3 +42,6 @@ These values match the coordinates found in `render.cpp` (line 108):
 
 ```cpp
 { 1940.0f, 44.0f, 0.0f, 1.0f, 1.0f, 1.0f }, // tip
+
+
+
