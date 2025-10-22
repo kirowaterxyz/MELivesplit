@@ -1,26 +1,10 @@
 # Livesplit Overlay for Mirror's Edge
 
-A quick-and-dirty DLL overlay to display your **LiveSplit timer** inside **Mirror's Edge** when playing on a **single monitor**.
-
----
+A DLL overlay to display your **LiveSplit timer** inside **Mirror's Edge** when playing on a **single monitor**.
 
 ## Preview
 
 [![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/RHCmfNBMeT4/maxresdefault.jpg)](https://youtu.be/RHCmfNBMeT4)
-
----
-
-## ❓ What is this?
-
-This is **not** a general-purpose overlay for all fullscreen games.  
-It's a **very specific project** made only for **Mirror’s Edge** (2009).
-
-> Show the LiveSplit timer while playing Mirror’s Edge in fullscreen, with only one monitor.
-
-It worked surprisingly well — made in just a few minutes, and then left as-is.  
-If you're speedrunning Mirror’s Edge and want to see your timer without a second screen, this might help.
-
----
 
 ## ⚙️ How it works
 
